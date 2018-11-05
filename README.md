@@ -1,7 +1,7 @@
 # Open in Ship
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/fabiospampinato/vscode-open-in-ship/master/resources/logo-128x128.png" alt="Logo">
+	<img src="https://raw.githubusercontent.com/fabiospampinato/vscode-open-in-ship/master/resources/logo.png" width="128" alt="Logo">
 </p>
 
 Adds a command for opening the current project in [Ship](https://www.realartists.com).
