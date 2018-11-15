@@ -51,6 +51,7 @@
     "Other"
   ],
   "dependencies": {
+    "@types/node": "^10.12.8",
     "absolute": "0.0.1",
     "applescript": "^1.0.0",
     "find-up": "^2.1.0",
@@ -59,7 +60,6 @@
     "simple-git": "^1.95.0"
   },
   "devDependencies": {
-    "@types/node": "^6.0.40",
     "ts-loader": "^5.2.1",
     "typescript": "~2.4.1",
     "vscode": "^1.1.4",
